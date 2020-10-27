@@ -1090,4 +1090,8 @@ span.yui-skin-sam img {
     font-weight:bold;
     padding-right: 4px;
 }
+.eventTablePager {
+    text-align: center;
+    font-size: 1.3em;
+}
 
